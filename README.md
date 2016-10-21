@@ -9,6 +9,6 @@ Requerimientos:
 - Opcional , fontawesome cargado para icono delante de link
 
 Para usarlo :
-- Copiar contenido javascrip ten el archivo .js
-- Hacer modificaciones a los selectores, por defecto : article h2, y article h3 y .entry-content h2
+- Copiar contenido javascrip de alguno de los scripts, ya sea de dos o tres niveles en un archivo .js
+- Hacer modificaciones a los selectores de ser necesario, por defecto por ejemplo : article h2, y article h3 y .entry-content h2
 - Copiar el contenido CSS a un archivo .css

@@ -6,6 +6,7 @@ Requerimientos:
 - Requiere un archivos javascript
 - Requiere Jquery cargado
 - Requiere un archivo CSS
+- Opcional , fontawesome cargado para icono delante de link
 
 Para usarlo :
 - Copiar contenido javascrip ten el archivo .js

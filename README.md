@@ -1,5 +1,5 @@
 # Genera-Tabla-de-contenidos
-Genera una tabla de contenidos a dos niveles, sólo con javascript (jquery) y CSS
+Genera una tabla de contenidos a dos niveles, sólo con javascript (jquery) y CSS.
 Esta preparado para usarse en WordPress, pero puede ser usado en cualquier entorno, sólo cambiar los selectores.
 
 Requerimientos: 

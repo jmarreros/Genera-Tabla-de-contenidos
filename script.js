@@ -1,5 +1,6 @@
 (function($){
 
+	//Comprobación para que se ejecute sólo al ver el detalle de una entrada
 	if ( $('body.single').length ){
 
 		//Plantillas para la tabla
